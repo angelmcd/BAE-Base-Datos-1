@@ -1,2 +1,2 @@
-# BAE-Base-Datos-1
+# Base de Datos
 Repositorio dedicado a Base de Datos
