@@ -6,11 +6,19 @@ Jaime León - Primer año de DAW
 En esta tarea se revisarán las características y funcionalidades de distintos sistemas de gestión de bases de datos.
 ## Índice
 - MySQL
+
 - SQL Server
+
 - Oracle
+
 - Microsoft Access
+
 - PostgreSQL
+
 - H2
+
 - FireBird
+
 - MongoDB
+
 - Cassandra
