@@ -36,4 +36,4 @@ Por último fui al apartado de opciones y una vez ahí al de colaboradores y man
 
 - ## Problemas encontrados
 
-El único apartado con el que he tenido problemas es con la última parte de la tarea, relacionada con hacer un nuevo fichero para los trabajos y añadir en este otro archivo README.md para cada proyecto, puesto que no comprendía cómo crear ese sistema por capas.
+El único apartado con el que he tenido problemas es con la última parte de la tarea, relacionada con hacer un nuevo fichero para los trabajos y añadir en este otro archivo README.md para cada proyecto, puesto que no comprendía cómo crear ese sistema por capas. Pude hacer esto una vez aprendí a usar el Visual Studio.
