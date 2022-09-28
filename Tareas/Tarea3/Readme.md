@@ -34,7 +34,7 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
 
 - En una empresa, para cada uno de sus empleados, se guardan los datos de sus hijos. Representa esta relación haciendo las suposiciones que creas convenientes.
 
-![<>](Imágenes/8.png
+![<>](Imágenes/8.png)
 
 - Se desea diseñar una BD para una Universidad que contenga información sobre carreras y asignaturas que se pueden estudiar Además se incluirá la información de los alumnos matriculados en las correspondientes asignaturas y las calificaciones que obtienen en las asignaturas en las que están matriculados. Nota: suponer que una asignatura solo puede pertenecer a una carrera.
 
