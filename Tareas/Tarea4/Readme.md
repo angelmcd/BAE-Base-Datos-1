@@ -8,6 +8,16 @@ Se desea diseñar una base de datos para almacenar y gestionar la información e
 - Proponer las frases que describan el problema.
 - Generar los entidades y relaciones de cada frase que hayas detectado, sin indicar cardinalidad, etc.
 
-Un cliente puede comprar tantos coches como desee a la empresa
+Un cliente puede comprar tantos coches como desee, un coche solo puede ser comprado por un cliente.
 
-![<>](img/Captura_6-2.png)
+![<>](img/Captura6-2.png)
+
+ El concesionario lleva a cabo las revisiones a cada coche, los coches pueden pasar varias revisiones.
+
+ ![<>](img/Captura6-3.png)
+
+- Monta correctamente todas las entidades y sus relaciones.
+- Colocar los atributos a cada entidad e interrelación.
+- Indica la cardinalidad de las relaciones.
+
+ ![<>](img/Captura6-1.png)
