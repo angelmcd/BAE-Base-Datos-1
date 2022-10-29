@@ -1,6 +1,5 @@
-# Tarea 3
-## Ejercicios básicos de E/R
-### Base de datos
+# Ejercicios básicos de Entidad Relación
+## Base de datos
 
 Representa las entidades, relaciones y cardinalidades mínimas y máximas para cada uno de los siguientes supuestos:
 
