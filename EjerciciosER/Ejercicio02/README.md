@@ -11,10 +11,11 @@ Se desea realizar una BD que permita apoyar la gestión de un sistema de ventas.
 ## Paso 1
 Proponer las frases que describan el problema y generar las entidades y relaciones.
 
-- Cada producto pertenece sólo a una categoría
-- El proveedor provee el producto 
-- Se detalla la venta de cada producto
-- El cliente hace una compra
+- Cada producto pertenece sólo a una categoría.
+- El proveedor provee el producto.
+- Se detalla la venta de cada producto.
+- El cliente hace una compra.
+
 ![<>](img/Captura%20de%20pantalla%202022-10-29%20134601.png)
 
 ## Paso 2
