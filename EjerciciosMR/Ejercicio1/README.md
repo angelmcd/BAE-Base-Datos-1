@@ -1,4 +1,4 @@
-
+# Sistema de Ventas MR
 
 Se desea realizar una BD que permita apoyar la gestión de un sistema de ventas. La empresa necesita llevar un control de proveedores, clientes, productos y ventas.
 
