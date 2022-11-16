@@ -31,6 +31,4 @@ En la Empresa Educando S.A. se lleva control de sus Bienes y Servicios. El inter
 
 ## Solución
 
-![<>](img)
-
-Prueba (BORRAR) 
+![<>](img/MR13.jpg)

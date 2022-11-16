@@ -9,5 +9,5 @@ Se pide diseñar una Base de Datos para representar la información docente de u
 
 ## Solución
 
-![<>](img)
+![<>](img/MR-12.jpg)
 
