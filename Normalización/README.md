@@ -1,1 +1,0 @@
-Fichero dedicado al tema de normalizacón de bases de datos
