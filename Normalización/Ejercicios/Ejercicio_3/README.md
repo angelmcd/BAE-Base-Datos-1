@@ -10,7 +10,8 @@ Tenemos una empresa publica donde los puestos de trabajo, están regulados por e
     
 La primera forma normal no se cumple ya que los atributos no son atómicos, por lo que hay que normalizar
 
-![<>](img/0.jpg)
+![<>](img/0.jpg)  
+
 ![<>](img/N1.jpg)
 
 - 3 Comprobar si se cumple la 2ª Forma Normal, normalizar si no.
@@ -19,7 +20,8 @@ La segunda forma normal no se cumple ya que aún hay elementos en la tabla que n
 
 <div id='id1'>
 
-![<>](img/N2-1.jpg)
+![<>](img/N2-1.jpg)  
+
 ![<>](img/N-2-2.jpg)
 
 - 4 Comprobar si se cumple la 3ª Forma Normal, normalizar si no.
