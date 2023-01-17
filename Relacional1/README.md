@@ -1,5 +1,7 @@
 ## Base de datos para empresa de tecnología
 
+<img src="img/is.jpg">
+
 Se plantea la creación de una BBDD para una empresa de tecnología.
 - Realiza la creación de la BBDD, creando las sentencias sql necesarias.
 - Realiza la inserción de los valores.
