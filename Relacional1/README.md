@@ -6,100 +6,100 @@ Se plantea la creación de una BBDD para una empresa de tecnología.
 - Realiza las siguientes consultas 
     - Averigua el DNI de todos los clientes.
 
-    <img src="img/1.png" height="300">
+    <img src="img/1.png" height="400">
 
     - Consulta todos los datos de todos los programas.
 
-    <img src="img/2.png" height="300">
+    <img src="img/2.png" height="400">
 
     - Obtén un listado con los nombres de todos los programas.
 
-    <img src="img/3.png" height="300">
+    <img src="img/3.png" height="400">
 
     - Genera una lista con todos los comercios.
 
-    <img src="img/4.png" height="300">
+    <img src="img/4.png" height="400">
 
     - Genera una lista de las ciudades con establecimientos donde se venden programas, sin que aparezcan valores duplicados (utiliza DISTINCT).
 
-    <img src="img/5.png" height="300">
+    <img src="img/5.png" height="400">
 
     - Obtén una lista con los nombres de programas, sin que aparezcan valores duplicados (utiliza DISTINCT).
 
-    <img src="img/6.png" height="300">
+    <img src="img/6.png" height="400">
 
     - Obtén el DNI más 4 de todos los clientes.
 
-    <img src="img/7.png" height="300">
+    <img src="img/7.png" height="400">
 
     - Haz un listado con los códigos de los programas multiplicados por 7. 9 ¿Cuáles son los programas cuyo código es inferior o igual a 10?
 
     - ¿Cuál es el programa cuyo código es 11?
 
-    <img src="img/9.png" height="300">
+    <img src="img/9.png" height="400">
 
     - ¿Qué fabricantes son de Estados Unidos?
 
-    <img src="img/10.png" height="300">
+    <img src="img/10.png" height="400">
 
     - ¿Cuáles son los fabricantes no españoles? Utilizar el operador IN.
 
-    <img src="img/11.png" height="300">
+    <img src="img/11.png" height="400">
 
     - Obtén un listado con los códigos de las distintas versiones de Windows.
 
-    <img src="img/12.png" height="300">
+    <img src="img/12.png" height="400">
 
     - ¿En qué ciudades comercializa programas El Corte Inglés?
 
-    <img src="img/13.png" height="300">
+    <img src="img/13.png" height="400">
 
     - ¿Qué otros comercios hay, además de El Corte Inglés? Utilizar el 
     operador IN.
 
-    <img src="img/14.png" height="300">
+    <img src="img/14.png" height="400">
 
     - Genera una lista con los códigos de las distintas versiones de Windows y Access. Utilizar el operador IN.
 
-    <img src="img/15.png" height="300">
+    <img src="img/15.png" height="400">
 
     - Obtén un listado que incluya los nombres de los clientes de edades comprendidas entre 10 y 25 y de los mayores de 50 años. Da una solución con BETWEEN y otra sin BETWEEN.
 
     - Saca un listado con los comercios de Sevilla y Madrid. No se admiten valores duplicados.
 
-    <img src="img/17.png" height="300">
+    <img src="img/17.png" height="400">
 
     - ¿Qué clientes terminan su nombre en la letra “o”?
 
-    <img src="img/18.png" height="300">
+    <img src="img/18.png" height="400">
 
     - ¿Qué clientes terminan su nombre en la letra “o” y, además, son mayores de 30 años?
 
-    <img src="img/19.png" height="300">
+    <img src="img/19.png" height="400">
 
     - Obtén un listado en el que aparezcan los programas cuya versión finalice por una letra i, o cuyo nombre comience por una A o por una W.
 
-    <img src="img/20.png" height="300">
+    <img src="img/20.png" height="400">
 
     - Obtén un listado en el que aparezcan los programas cuya versión finalice por una letra i, o cuyo nombre comience por una A y termine por una S.
 
-    <img src="img/21.png" height="300">
+    <img src="img/21.png" height="400">
 
     - Obtén un listado en el que aparezcan los programas cuya versión finalice por una letra i, y cuyo nombre no comience por una A.
 
-    <img src="img/22.png" height="300">
+    <img src="img/22.png" height="400">
 
     - Obtén una lista de empresas por orden alfabético ascendente.
 
-    <img src="img/23.png" height="300">
+    <img src="img/23.png" height="400">
 
     - Genera un listado de empresas por orden alfabético descendente.
 
-    <img src="img/24.png" height="300">
+    <img src="img/24.png" height="400">
 
     - Obtén un listado de programas por orden de versión.
 
-    <img src="img/25.png" height="300">
+    <img src="img/25.png" height="400">
 
     - Genera un listado de los programas que desarrolla Oracle.
 
